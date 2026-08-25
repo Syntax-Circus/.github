@@ -6,7 +6,7 @@
 
 **An independent software studio focused on craft, clarity, and audience-first work.**
 
-[syntaxcircus.com](https://www.syntaxcircus.com) · [Core Musica](https://www.syntaxcircus.com) · [Writing](https://www.seeleycoder.com)
+[syntaxcircus.com](https://www.syntaxcircus.com) · [Core Musica](https://www.coremusica.com) · [Cmsify](https://docs.cmsify.dev) · [Writing](https://www.seeleycoder.com)
 
 </div>
 
@@ -21,6 +21,8 @@ The libraries in this org are the reusable pieces built along the way — extrac
 ## Products
 
 **[Core Musica](https://www.coremusica.com)** — a serious listening tool for people who care about their music library, richer metadata, and discovery that feels intentional instead of algorithmic. Issues and feedback are tracked publicly in [`core-musica-issues`](https://github.com/Syntax-Circus/core-musica-issues).
+
+**[Cmsify](https://docs.cmsify.dev)** — a headless CMS for teams that want structured content, API-first publishing, and a clean editorial workflow. Issues and feedback in [`GitHub - cmsify`](https://github.com/Syntax-Circus/cmsify/issues).
 
 ## Open Source Packages
 
